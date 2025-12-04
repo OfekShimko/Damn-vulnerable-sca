@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.tukaani</groupId>
 			<artifactId>xz</artifactId>
-			<version>1.9.2-malicious</version>
+			<version>1.9</version>
 		</dependency>
 
 		<!-- CVE-2020-9547 -->
